@@ -298,14 +298,14 @@ const PropertyDetails = () => {
             </Stack>
           </Stack>
 
-          <Stack>
+          {/* <Stack>
             <img
               src="https://serpmedia.org/scigen/images/googlemaps-nyc-standard.png?crc=3787557525"
               width="100%"
               height={306}
               style={{ borderRadius: 10, objectFit: "cover" }}
             />
-          </Stack>
+          </Stack> */}
 
           <Box>
             <CustomButton
